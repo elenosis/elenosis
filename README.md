@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eleni :)
 - 👀 I’m interested in expanding my knowledge and getting involved in challenging projects!
-- 🌱 I’m currently learning Express and MongoDB
+- 🌱 I’m currently learning the MERN stack
 - 📫 Reach me at eleni.orfanou.88@gmail.com
 
 <!---
