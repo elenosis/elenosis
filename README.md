@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Eleni :)
 - 👀 I’m interested in expanding my knowledge and getting involved in challenging projects!
-- 🌱 I’m currently mastering the MERN stack and learning c#
+- 🌱 I’m currently mastering the MERN stack and learning PHP
 - 📫 Reach me at eleni.orfanou.88@gmail.com
 
 <!---
